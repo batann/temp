@@ -1,0 +1,6 @@
+# MX Community Main and Test Repos
+deb http://mx.debian.nz/mx/repo/ bookworm main non-free
+#deb http://mx.debian.nz/mx/testrepo/ bookworm test
+
+#ahs hardware stack repo
+#deb http://mx.debian.nz/mx/repo/ bookworm ahs

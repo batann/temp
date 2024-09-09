@@ -1,0 +1,17 @@
+### Debian essential repositories
+
+## origin deb.debian.org | o=Debian,a=stable,n=bookworm,l=Debian,c=[main|contrib|non-free],b=[amd64|i386|arm64|armhf]
+deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
+##deb-src http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
+
+## origin security.debian.org | o=Debian,a=stable-security,n=bookworm-security,l=Debian-Security,c=[main|contrib|non-free],b=[amd64|i386|arm64|armhf]
+deb http://security.debian.org/ bookworm-security main contrib non-free non-free-firmware
+##deb-src http://security.debian.org/ bookworm-security main contrib non-free non-free-firmware
+
+## origin deb.debian.org | o=Debian,a=stable-updates,n=bookworm-updates,l=Debian,c=[main|contrib|non-free],b=[amd64|i386|arm64|armhf]
+deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+##deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+
+## origin deb.debian.org
+##deb http://deb.debian.org/debian/ bookworm-proposed-updates main contrib non-free non-free-firmware
+##deb-src http://deb.debian.org/debian/ bookworm-proposed-updates main contrib non-free non-free-firmware

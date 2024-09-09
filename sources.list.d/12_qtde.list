@@ -1,0 +1,5 @@
+### Q4OS-TDE repositories
+
+## origin q4os.org | o=q4os.org,a=qtde-bookworm-st,n=bookworm,l=Q4OS TDE repository,c=[main],b=[amd64|i386|arm64|armhf]
+deb http://q4os.org/qtderepo bookworm main
+##deb-src http://q4os.org/qtderepo bookworm main

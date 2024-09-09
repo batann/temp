@@ -1,0 +1,5 @@
+### Debian backports
+
+## origin deb.debian.org | o=Debian Backports,a=bookworm-backports,n=bookworm-backports,l=Debian Backports,c=[main|contrib|non-free],b=[amd64|i386|arm64|armhf]
+#deb http://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
+##deb-src http://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware

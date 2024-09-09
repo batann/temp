@@ -1,0 +1,8 @@
+Unattended-Upgrade::Origins-Pattern {
+ "o=q4os.org";
+ "o=Debian Backports,n=${distro_codename}-backports";
+ "o=Debian,n=${distro_codename}-proposed-updates";
+ "o=Debian,n=${distro_codename}-updates";
+ "o=Debian,n=${distro_codename}-security";
+ "o=Debian,n=${distro_codename}";
+};

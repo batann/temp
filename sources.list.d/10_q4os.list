@@ -1,0 +1,5 @@
+### Q4OS essential repositories
+
+## origin q4os.org | o=q4os.org,a=q4os-5-0-st,n=q4os-5-0-cn,l=q4os-5-0 repository,c=main,b=[amd64|i386|arm64|armhf]
+deb http://q4os.org/q4repo q4os-5-0-cn main
+##deb-src http://q4os.org/q4repo q4os-5-0-cn main
